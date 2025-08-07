@@ -11,6 +11,12 @@ Can machine learning help predict the finishing order of drivers for a future F1
 
 We combined real-world race results (via the FastF1 API) with synthetic data simulating realistic scenarios for 2025. Using advanced models like Gradient Boosting and Random Forest, we built and evaluated a predictive system that produces robust, explainable race finish forecasts.
 
+👥 Team
+    Praval Vaid– Data collection, processing, and management
+    Arham– Feature engineering, model building, and training
+    Anish Sahu– Evaluation, visualization, and reporting
+
+
 📦 Key Features
     Accurate Position Forecasts: Predicts where each driver is likely to finish, using classification models trained on rich, domain-specific features.
     Explainability: Visualizes which factors (grid position, team strength, driver skill) contribute most to the model's output.
